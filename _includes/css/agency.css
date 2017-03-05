@@ -242,6 +242,7 @@ fieldset[disabled] .btn-xl.active {
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
+        background-color: rgba(0, 0, 0, 0.5);
     }
 
     .navbar-default .navbar-brand {
@@ -257,7 +258,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: rgba(2, 2, 2, 0.9);
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -269,7 +270,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/header-bg.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -302,8 +303,9 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 220px;
+        padding-bottom: 380px;
+        color: #333;
     }
 
     header .intro-text .intro-lead-in {
