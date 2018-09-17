@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: 설화수, 헤라 랭킹대전
+subtitle: 랭킹 순위 경쟁
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: amore_seolhwa.png
+thumbnail: amore_seolhwa_thumb.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: 아모레 퍼시픽
+category: 모바일 DM
+description: ① 고객이 카운셀러에게 상담 신청을많이 할수록<br>② 고객이 친구에게 공유를 많이 할수록, 카운셀러의 랭킹 순위가 높아지는 경쟁<br>업계최초 100만명이상 동시발송<br>클릭율:&nbsp;13.6%&nbsp;&nbsp;공유율:&nbsp;17.2%&nbsp;&nbsp;상담율:&nbsp;15%
 
 ---

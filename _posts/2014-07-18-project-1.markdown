@@ -1,15 +1,17 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 아모레 포인트 이벤트
+subtitle: 이틀 만에 3억8천 포인트 소진 완료
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: amore_point.png
+thumbnail: amore_point_thumb.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+client: 아모레 퍼시픽
+category: 모바일 DM
+project-date_url: #
+client_url: #
+category_url: #
+description: 백화점의 기본 제품을 반값으로 포인트로만 구매할 수 있는 이벤트 진행<br>* mDM내에서 담당 카운셀러에게 문의<br>단 이틀 만에 3억8천 포인트 소진 완료<br>클릭율:&nbsp;26.6%&nbsp;&nbsp;공유율:&nbsp;13.2%&nbsp;&nbsp;상담율:&nbsp;16%
 ---

@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: 마케팅형 모바일 리서치 
+subtitle: 30여개 브랜드 진행
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: mobile_marketing.png
+thumbnail: mobile_marketing_thumb.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: 30여개 브랜드
+category: 모바일 리서치
+description:  마케팅형 모바일 리서치 사례 일부 (아모레 ,아디다스  ,리복 , 하이브랜드 등 30여개 브랜드 진행)<br>이벤트 번역 사례  (영어 , 러시아  , 일본 ,  중국 4개국 언어 지원)
 
 ---

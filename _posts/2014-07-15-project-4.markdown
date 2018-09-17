@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 클라란스 게임 이벤트
+subtitle: 룰렛 이벤트 / 스크래치 이벤트
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: clarence.png
+thumbnail: clarence_thumb.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: 클라란스
+category: 모바일 DM
+description: 중간중간 게임 이벤트를 진행하여 고객에게 재미를 주어 참여율을 이끌어냄<br>룰렛 이벤트 / 스크래치 이벤트<br>공유율:&nbsp;79.2%&nbsp;&nbsp;발급율:&nbsp;75%
 
 ---
